@@ -1,0 +1,19 @@
+# --- Секреты и локальные настройки ---
+config.json
+cookies.txt
+
+# --- Артефакты работы скриптов ---
+*.log
+progress.json
+progress2.json
+*.progress.json
+*.xlsx
+*.xml
+*.tsv
+
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Локальные файлы инструментов ---
+opencode.json
